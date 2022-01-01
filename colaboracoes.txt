@@ -1,3 +1,5 @@
 Primeira alteração de projeto aqui nesta linha.
 
 Segunta alteração para testar a opção commit -a.
+
+Terceiro tete, somente com -a nao consegui comentar e fiquei preso na tela de texto que nao saia por nada de la! depois de muito laço, mais esta alteração de texto no arquivo para ocasionar mais um commit com os dois passos, add e commit -m.
